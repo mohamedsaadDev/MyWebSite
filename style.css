@@ -256,6 +256,7 @@ section {
 .container-portfolo {
     background-color: #000016;
     padding: 100px 0;
+    transition: width 1s ease initial, height 1s ease initial;
 }
 .container-portfolo .conent {
     margin-top: 30px;
@@ -295,6 +296,21 @@ section {
     color: white;
     transition: 0.5s;
     text-decoration: none;
+}
+.w-100{
+    width: 100%;
+}
+.t-center{
+    text-align: center;
+}
+.btn-redmor{
+    padding: 10px 25px;
+    background-color: var(--main-color);
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
 }
 /*end portfolo*/
 /*start contact me*/
