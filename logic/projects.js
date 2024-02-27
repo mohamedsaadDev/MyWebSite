@@ -1,12 +1,12 @@
 const project =[
     {
-        img:"./public/project/project6.png",
-        path:"https://dashbord-wine.vercel.app/",
+        img:"./public/project/project5.png",
+        path:"https://imitation-nice-one-client.vercel.app",
         alternate:"Imitation Nice One "
     },
     {
-        img:"./public/project/project5.png",
-        path:"https://imitation-nice-one-client.vercel.app",
+        img:"./public/project/project6.png",
+        path:"https://dashbord-wine.vercel.app/",
         alternate:"Imitation Nice One "
     },
     {
