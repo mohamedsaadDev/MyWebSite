@@ -1,8 +1,13 @@
 const project =[
     {
+        img:"./public/project/project7.png",
+        path:"https://styling-resume-git-master-mohamed-saads-projects.vercel.app/",
+        alternate:"Styling Resume"
+    },
+    {
         img:"./public/project/project5.png",
         path:"https://imitation-nice-one-client.vercel.app",
-        alternate:"Imitation Nice One "
+        alternate:"Nice One "
     },
     {
         img:"./public/project/project6.png",
